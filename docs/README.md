@@ -104,6 +104,9 @@ EOF
    - Actionable recommendations
    - AI insights (if available)
 
+### Screenshot
+![App Demo](docs/images/app-demo.png)
+
 ### Using in Python
 
 ```python
