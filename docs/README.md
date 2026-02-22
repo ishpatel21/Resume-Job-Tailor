@@ -2,6 +2,8 @@
 
 An intelligent resume-to-job matching system that analyzes how well your resume aligns with a job description using dual-layer matching (keyword + TF-IDF) and optional AI-powered insights.
 
+![App Demo](/docs/images/app-demo.png)
+
 ## Features ✨
 
 ### Core Matching System
@@ -103,9 +105,6 @@ EOF
    - Missing keywords (top 10)
    - Actionable recommendations
    - AI insights (if available)
-
-### Screenshot
-![App Demo](/docs/images/app-demo.png)
 
 ### Using in Python
 
